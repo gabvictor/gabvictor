@@ -9,10 +9,6 @@
 
 ###
 
-<img align="right" height="150" src="https://avatars.githubusercontent.com/u/64426475?s=400&u=cc0b01dab8978d4448173014e1bda23d1e290d58&v=4"  />
-
-###
-
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/gabvictor/gabvictor/output/snake.svg" alt="Snake animation" />
